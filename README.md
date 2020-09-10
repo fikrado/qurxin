@@ -1,4 +1,4 @@
-# jarvis-welcome 
+# sida hacker ku qurxi 
 #### Beautify your Termux App With a warm welcome
 
 ## [+] Installation & Usage
@@ -6,8 +6,8 @@
 apt update
 apt install git -y
 pkg install mpv -y
-git clone https://github.com/AmshenShanu07/jarvis-welcome.git
-cd jarvis-welcome
+git clone https://github.com/fikrado/qurxin
+cd qurxin
 chmod +x *
 sh install.sh
 exit
@@ -27,6 +27,6 @@ bash rvt.sh
 
     
 ## [+] Find Me on :
-#### Telegram :https://t.me/AmshenShanu
+#### Telegram :https://t.me/fikrado404063
 #### Plzz text your errors to this grp :https://t.me/joinchat/NM1A0FN8Bu-swiQNFRhdgw
 
