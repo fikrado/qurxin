@@ -1,5 +1,5 @@
 # sida hacker ku qurxi 
-#### Beautify your Termux App With a warm welcome
+#### Beautify your Termux App With a warm welcome by yahya in 16-octuber-2020
 
 ## [+] Installation & Usage
 ```
