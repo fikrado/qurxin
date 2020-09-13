@@ -1,4 +1,4 @@
-# sida hacker ku qurxi 
+# Termux interface and theme creat by hacker somali
 #### Beautify theme for Termux App With a warm welcome by yahya in 16-octuber-2020
 
 ## [+] Installation & Usage
