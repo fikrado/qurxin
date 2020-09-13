@@ -22,11 +22,11 @@ cd jarvis-welcome
 
 bash rvt.sh
 ```
-# thanks to https://github.com/htr-tech 
+# thanks to https://github.com/fikrado 
  # For providing the code
 
     
 ## [+] Find Me on :
 #### Telegram :https://t.me/fikrado404063
-#### Plzz text your errors to this grp :https://t.me/joinchat/NM1A0FN8Bu-swiQNFRhdgw
+#### Plzz text your errors to this grp :https://t.me/joinchat/fikrado404
 
