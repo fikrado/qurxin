@@ -28,5 +28,5 @@ bash rvt.sh
     
 ## [+] Find Me on :
 #### Telegram :https://t.me/fikrado404063
-#### Plzz text your errors to this grp :https://t.me/joinchat/fikrado4048063
+#### Plzz text your errors to this grp :https://t.me/fikrado4048063
 
