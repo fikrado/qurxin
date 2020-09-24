@@ -14,11 +14,11 @@ exit
 ```
 ### or use Single Command
 ```
-apt update && apt install git -y && pkg install mpv && git clone  https://github.com/AmshenShanu07/jarvis-welcome.git && cd jarvis-welcome && chmod +x * && ./install.sh
+apt update && apt install git -y && pkg install mpv && git clone  https://github.com/fikrado/qurxin && cd qurxin && chmod +x * && ./install.sh
 ```
 ## [+]How to remove 
 ```
-cd jarvis-welcome
+cd qurxin
 
 bash rvt.sh
 ```
