@@ -1,5 +1,5 @@
 # Termux interface and theme creat by hacker somali
-<img src="https://www.pngkey.com/maxpic/u2w7w7u2i1a9w7e6/" >
+<img src="https://community-cdn-digitalocean-com.global.ssl.fastly.net/variants/oEuFmi4ntgxcSdj79jgypZro/035575f2985fe451d86e717d73691e533a1a00545d7230900ed786341dc3c882" >
 #### Beautify theme for Termux App With a warm welcome by yahya in 16-octuber-2020
 
 ## [+] Installation & Usage
