@@ -8,13 +8,7 @@ clear
 echo -e "Created By \e[5mYahye Abdirahman"
 echo "----------------------------" | lolcat
 echo "
-o      o        8
-8      8        8
-8      8 .oPYo. 8 .oPYo. .oPYo. ooYoYo. .oPYo.
-8  db  8 8oooo8 8 8      8    8 8' 8  8 8oooo8
- b.PY.d' 8.     8 8    . 8    8 8  8  8 8.
-  8  8'   Yooo  8  YooP   YooP  8  8  8  Yooo " | lolcat
-echo ""
-  
-date | lolcat
-echo ""
+
+figlet Qurxin | lolcat
+
+echo " vertion 2.o "
