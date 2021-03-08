@@ -2,7 +2,7 @@
 
 <img src="/f.jpg" >
 
-#### Beautify theme for Termux App With a warm welcome this tool cread  by Yahye  in 16-octuber-2020
+#### Qurxin is Termux banner or interface with parroto os shell and Wellcome robot like Jarvis in Iron Man movie created with love 16-oct-2020
 
 ## [+] Installation & Usage :atom_symbol:
 ```
@@ -38,5 +38,4 @@ bash rvt.sh
 [![Github](https://img.shields.io/badge/WhatsApp-Mr_Yahye-lightgreen?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send?phone=252634048063)
 [![Github](https://img.shields.io/badge/TELEGRAM-MR_Yahye-orange?style=for-the-badge&logo=telegram)](https://t.me/Mr_yahye)
 [![Github](https://img.shields.io/badge/Twitter-fikrado-aqua?style=for-the-badge&logo=twitter)](https://twitter.com/fikrado1)
-
 
