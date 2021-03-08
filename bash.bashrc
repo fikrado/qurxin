@@ -8,7 +8,6 @@ clear
 echo -e "Created By \e[5mYahye Abdirahman"
 echo "----------------------------" | lolcat
 
-
-figlet Qurxin | lolcat
+figlet -f big Qurxin | lolcat
 
 echo " vertion 2.o "
