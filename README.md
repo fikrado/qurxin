@@ -6,7 +6,7 @@
 
 ## [+] Installation & Usage :atom_symbol:
 ```
-apt update
+apt update && upgrade -y 
 pkg install git python mpv figlet -y
 pip install lolcat
 git clone https://github.com/fikrado/qurxin
@@ -17,7 +17,7 @@ exit
 ```
 ### One command installation :octocat:
 ```
-apt update && apt install git -y && pkg install mpv figlet python && pip install lolcat && git clone https://github.com/fikrado/qurxin && cd qurxin && chmod +x * && ./install.sh
+apt update && upgrade -y && apt install git -y && pkg install mpv figlet python && pip install lolcat && git clone https://github.com/fikrado/qurxin && cd qurxin && chmod +x * && ./install.sh
 ```
 ## screen shot
 
