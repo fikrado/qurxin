@@ -4,7 +4,7 @@
 
 #### Beautify theme for Termux App With a warm welcome this tool cread  by Yahye  in 16-octuber-2020
 
-## [+] Installation & Usage :purple:
+## [+] Installation & Usage :purple-love:
 ```
 apt update
 pkg install git python mpv figlet -y
