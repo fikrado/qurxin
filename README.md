@@ -29,7 +29,9 @@ cd qurxin
 
 bash rvt.sh
 ```
-# thanks for using my script
+# thanks for using my script please donate
+<a href="https://liberapay.com/fikrado">
+  <img align="left" alt="Yahye's Librabay" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Liberapay_logo_v2_white-on-yellow.svg/1200px-Liberapay_logo_v2_white-on-yellow.svg.png" />
 
     
 ## [+] Find Me on :
