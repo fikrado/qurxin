@@ -33,7 +33,7 @@ bash rvt.sh
 <a href="https://liberapay.com/fikrado">
   <img align="left" alt="Yahye's Librabay" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Liberapay_logo_v2_white-on-yellow.svg/1200px-Liberapay_logo_v2_white-on-yellow.svg.png" />
 
-___________________________   
+<!-----------------------!> 
 ## [+] Find Me on :
 
 [![Github](https://img.shields.io/badge/Facebook-fikrado-blue?style=for-the-badge&logo=facebook)](https://facebook.com/fikrado4048063)
