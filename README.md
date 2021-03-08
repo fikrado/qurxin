@@ -15,7 +15,7 @@ chmod +x *
 sh install.sh
 exit
 ```
-### install all in one time
+### One command installation :octocat:
 ```
 apt update && apt install git -y && pkg install mpv figlet python && pip install lolcat && git clone https://github.com/fikrado/qurxin && cd qurxin && chmod +x * && ./install.sh
 ```
@@ -23,7 +23,7 @@ apt update && apt install git -y && pkg install mpv figlet python && pip install
 
 <img src="/s.jpg" >
 
-## How to remove 
+## [-] How to remove 
 ```
 cd qurxin
 
