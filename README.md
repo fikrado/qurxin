@@ -4,7 +4,7 @@
 
 #### Beautify theme for Termux App With a warm welcome this tool cread  by Yahye  in 16-octuber-2020
 
-## [+] Installation & Usage
+## [+] Installation & Usage :purple:
 ```
 apt update
 pkg install git python mpv figlet -y
@@ -23,7 +23,7 @@ apt update && apt install git -y && pkg install mpv figlet python && pip install
 
 <img src="/s.jpg" >
 
-## [-] How to remove 
+## [-] How to remove :electron:
 ```
 cd qurxin
 
