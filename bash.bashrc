@@ -7,7 +7,7 @@ mpv /$HOME/qurxin/terminal[1].mp3
 clear
 echo -e "Created By \e[5mYahye Abdirahman"
 echo "----------------------------" | lolcat
-echo "
+
 
 figlet Qurxin | lolcat
 
