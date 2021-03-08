@@ -21,7 +21,7 @@ apt update && upgrade -y && apt install git -y && pkg install mpv figlet python 
 ```
 ## screen shot
 
-<img width="150px" src="/s.jpg" >
+<img width="200px" src="/s.jpg" >
 
 ## [-] How to remove :electron:
 ```
