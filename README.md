@@ -7,8 +7,8 @@
 ## [+] Installation & Usage
 ```
 apt update
-apt install git -y
-pkg install mpv figlet -y
+pkg install git python mpv figlet -y
+pip install lolcat
 git clone https://github.com/fikrado/qurxin
 cd qurxin
 chmod +x *
@@ -17,7 +17,7 @@ exit
 ```
 ### install all in one time
 ```
-apt update && apt install git -y && pkg install mpv figlet && git clone https://github.com/fikrado/qurxin && cd qurxin && chmod +x * && ./install.sh
+apt update && apt install git -y && pkg install mpv figlet python && pip install lolcat && git clone https://github.com/fikrado/qurxin && cd qurxin && chmod +x * && ./install.sh
 ```
 ## screen shot
 
