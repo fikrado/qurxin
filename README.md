@@ -1,12 +1,12 @@
 # Termux interface and theme creat by hacker somali
-<img src="https://community-cdn-digitalocean-com.global.ssl.fastly.net/variants/oEuFmi4ntgxcSdj79jgypZro/035575f2985fe451d86e717d73691e533a1a00545d7230900ed786341dc3c882" >
+<img src="/f.jpg" >
 #### Beautify theme for Termux App With a warm welcome by yahya in 16-octuber-2020
 
 ## [+] Installation & Usage
 ```
 apt update
 apt install git -y
-pkg install mpv -y
+pkg install mpv figlet -y
 git clone https://github.com/fikrado/qurxin
 cd qurxin
 chmod +x *
@@ -15,7 +15,7 @@ exit
 ```
 ### or use Single Command
 ```
-apt update && apt install git -y && pkg install mpv && git clone https://github.com/fikrado/qurxin && cd qurxin && chmod +x * && ./install.sh
+apt update && apt install git -y && pkg install mpv figlet && git clone https://github.com/fikrado/qurxin && cd qurxin && chmod +x * && ./install.sh
 ```
 ## [+]How to remove 
 ```
