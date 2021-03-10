@@ -8,6 +8,12 @@ clear
 echo -e "Created By \e[5mYahye Abdirahman"
 echo "----------------------------" | lolcat
 
-figlet -f big Qurxin | lolcat
+echo "
 
-echo " vertion 2.o "
+ ██████  ██    ██ ██████  ██   ██ ██ ███    ██ 
+██    ██ ██    ██ ██   ██  ██ ██  ██ ████   ██ 
+██    ██ ██    ██ ██████    ███   ██ ██ ██  ██ 
+██ ▄▄ ██ ██    ██ ██   ██  ██ ██  ██ ██  ██ ██ 
+ ██████   ██████  ██   ██ ██   ██ ██ ██   ████ 
+    ▀▀  " | lolcat
+figlet 2.0 | lolcat
